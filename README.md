@@ -33,3 +33,7 @@ a+.5|0
 
 A*Math.pow(2,B)
 A<<B
+
+###### POSTMAN
+Auto set token to postman global variable
+postman.setGlobalVariable("auth", JSON.parse(responseBody).data.token.accessToken);
