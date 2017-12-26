@@ -34,6 +34,7 @@ a+.5|0
 A*Math.pow(2,B)
 A<<B
 
+
 ###### POSTMAN
 Auto set token to postman global variable
 
